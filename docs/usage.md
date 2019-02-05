@@ -1,7 +1,7 @@
 #  参数设置
 以下是Aria2c的参数设置，强烈建议优先使用面板设置，修改参数最好先做好备份。`#` 为注释符号
 
-### 文件保存相关 
+### 文件保存相关     
 
 ```
 # 文件的保存路径(可使用绝对路径或相对路径), 默认: 当前启动位置
@@ -14,7 +14,7 @@ disk-cache=32M
 continue=true
 ```
 
-### 下载连接相关 
+### 下载连接相关    
 
 ```
 # 最大同时下载任务数, 运行时可修改, 默认:5
@@ -23,7 +23,7 @@ max-concurrent-downloads=5
 # 同一服务器连接数, 添加时可指定, 默认:1
 max-connection-per-server=5
 
-# 最小文件分片大小, 添加时可指定, 取值范围1M -1024M, 默认:20M，假定size=10M, 文件为20MiB 则使用两个来源下载; 文件为15MiB 则使用一个来源下载
+# 最小文件分片大小, 添加时可指定, 取值范围1M -1024M, 默认:20M
 min-split-size=10M
 
 # 单个任务最大线程数, 添加时可指定, 默认:5
@@ -54,7 +54,7 @@ max-tries=5
 #retry-wait=0
 ```
 
-### 进度保存相关 
+### 进度保存相关     
 ```
 # 从会话文件中读取下载任务
 input-file=/etc/aria2/aria2.session
@@ -66,7 +66,7 @@ save-session=/etc/aria2/aria2.session
 #save-session-interval=60
 ```
 
-### RPC相关设置 
+### RPC相关设置     
 
 ```
 # 启用RPC, 默认:false
@@ -103,7 +103,7 @@ rpc-secret=<TOKEN>
 #rpc-private-key=/path/to/certificate.key
 ```
 
-### BT/PT下载相关 
+### BT/PT下载相关     
 
 ```
 # 当下载的是一个种子(以.torrent结尾)时, 自动开始BT任务, 默认:true
@@ -153,6 +153,6 @@ bt-seed-unverified=true
 bt-save-metadata=true
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODY0NDcxNzIyLDE5ODM5NzI3NzUsNzEyNj
+eyJoaXN0b3J5IjpbOTMyNDIwMzcwLDE5ODM5NzI3NzUsNzEyNj
 U5NjYzXX0=
 -->
