@@ -30,22 +30,27 @@ min-split-size=10M
 # 单个任务最大线程数, 添加时可指定, 默认:5
 split=5
 
-# 整体下载速度限制, 运行时可修改, 默认:0
+# 整体下载速度限制, 运行时可修改, 默认:0（0代表不限速，下同）
 max-overall-download-limit=0
 
 # 单个任务下载速度限制, 默认:0
 max-download-limit=0
 
 # 整体上传速度限制, 运行时可修改, 默认:0
-#max-overall-upload-limit=0
+max-overall-upload-limit=0
+
 # 单个任务上传速度限制, 默认:0
-#max-upload-limit=0
+max-upload-limit=0
+
 # 禁用IPv6, 默认:false
-#disable-ipv6=true
+disable-ipv6=true
+
 # 连接超时时间, 默认:60
-#timeout=60
+timeout=60
+
 # 最大重试次数, 设置为0表示不限制重试次数, 默认:5
-#max-tries=5
+max-tries=5
+
 # 设置重试等待的秒数, 默认:0
 #retry-wait=0
 ```
@@ -128,5 +133,5 @@ bt-save-metadata=true
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzUwMzM4N119
+eyJoaXN0b3J5IjpbNzEyNjU5NjYzXX0=
 -->
