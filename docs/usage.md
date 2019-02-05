@@ -14,9 +14,11 @@ dir=~/downloads
 #file-allocation=none
 # 断点续传
 continue=true
+```
 
-## 下载连接相关 ##
+## 下载连接相关 
 
+```
 # 最大同时下载任务数, 运行时可修改, 默认:5
 #max-concurrent-downloads=5
 # 同一服务器连接数, 添加时可指定, 默认:1
@@ -42,18 +44,20 @@ min-split-size=10M
 #max-tries=5
 # 设置重试等待的秒数, 默认:0
 #retry-wait=0
-
+```
 ## 进度保存相关 ##
-
+```
 # 从会话文件中读取下载任务
 input-file=/etc/aria2/aria2.session
 # 在Aria2退出时保存`错误/未完成`的下载任务到会话文件
 save-session=/etc/aria2/aria2.session
 # 定时保存会话, 0为退出时才保存, 需1.16.1以上版本, 默认:0
 #save-session-interval=60
+```
 
 ## RPC相关设置 ##
 
+```
 # 启用RPC, 默认:false
 enable-rpc=true
 # 允许所有来源, 默认:false
@@ -78,8 +82,11 @@ rpc-listen-all=true
 #rpc-certificate=/path/to/certificate.pem
 # 在 RPC 服务中启用 SSL/TLS 加密时的私钥文件
 #rpc-private-key=/path/to/certificate.key
+```
 
-## BT/PT下载相关 ##
+## BT/PT下载相关 
+
+```
 
 # 当下载的是一个种子(以.torrent结尾)时, 自动开始BT任务, 默认:true
 #follow-torrent=true
@@ -116,5 +123,5 @@ bt-save-metadata=true
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MjMzODU4NF19
+eyJoaXN0b3J5IjpbMTc5ODgwNDY2MF19
 -->
