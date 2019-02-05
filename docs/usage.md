@@ -1,8 +1,8 @@
 # 教程
 
-```
-## 文件保存相关 ##
+## 文件保存相关 
 
+```
 # 文件的保存路径(可使用绝对路径或相对路径), 默认: 当前启动位置
 dir=~/downloads
 # 启用磁盘缓存, 0为禁用缓存, 需1.16以上版本, 默认:16M
@@ -115,3 +115,6 @@ bt-seed-unverified=true
 bt-save-metadata=true
 
 ```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM5MjMzODU4NF19
+-->
