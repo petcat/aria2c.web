@@ -1,6 +1,6 @@
 # 简介
 
-欢迎光临！Aria2c是一个包含支持磁力、BT下载，多xg完全可以取代迅雷的免费下载工具。的命令行下载器.
+欢迎光临！Aria2c是一个包含支持磁力、BT下载、支持多线程，完全可以取代迅雷的免费下载工具。不过Aria2c是一个命令行下载器，对于.
 
 ## Commands
 
@@ -16,5 +16,5 @@
         index.md  # The documentation homepage.
         ...       # Other markdown pages, images and other files.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDg5MzI3ODNdfQ==
+eyJoaXN0b3J5IjpbMTUwMTMwMDcxMV19
 -->
