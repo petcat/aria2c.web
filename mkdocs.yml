@@ -8,6 +8,6 @@ copyright: Copyright &copy; 2019 <a href="https://aria2c.xyz">Aria2c</a> | Hoste
 theme:  #readthedocs
 nav:
     - 首页: index.md
-    - 教程: option.md
+      -- 配置: option.md
     - 关于: about.md
 
