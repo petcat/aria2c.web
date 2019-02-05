@@ -93,12 +93,12 @@ rpc-secret=<TOKEN>
 # 设置的RPC访问密码, 此选项新版已废弃, 建议改用 --rpc-secret 选项
 #rpc-passwd=<PASSWD>
 
-# 是否启用 RPC 服务的 SSL/TLS 加密,
-# 启用加密后 RPC 服务需要使用 https 或者 wss 协议连接
+# 是否启用 RPC 服务的 SSL/TLS 加密，启用加密后 RPC 服务需要使用 https 或者 wss 协议连接
 #rpc-secure=true
-# 在 RPC 服务中启用 SSL/TLS 加密时的证书文件,
-# 使用 PEM 格式时，您必须通过 --rpc-private-key 指定私钥
+
+# 在 RPC 服务中启用 SSL/TLS 加密时的证书文件，使用 PEM 格式时，您必须通过 --rpc-private-key 指定私钥
 #rpc-certificate=/path/to/certificate.pem
+
 # 在 RPC 服务中启用 SSL/TLS 加密时的私钥文件
 #rpc-private-key=/path/to/certificate.key
 ```
@@ -106,7 +106,6 @@ rpc-secret=<TOKEN>
 ### BT/PT下载相关 
 
 ```
-
 # 当下载的是一个种子(以.torrent结尾)时, 自动开始BT任务, 默认:true
 #follow-torrent=true
 # BT监听端口, 当端口被屏蔽时使用, 默认:6881-6999
@@ -142,5 +141,6 @@ bt-save-metadata=true
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4Mzk3Mjc3NSw3MTI2NTk2NjNdfQ==
+eyJoaXN0b3J5IjpbMTkwMzE0NzQ4MSwxOTgzOTcyNzc1LDcxMj
+Y1OTY2M119
 -->
