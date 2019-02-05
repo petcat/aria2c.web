@@ -1,5 +1,5 @@
 #  Aria2c 参数设置
-强烈建议使用面板设置，修改参数最好先做好备份。
+强烈建议使用面板设置，修改参数最好先做好备份。`#` 为注释符号
 
 ### 文件保存相关 
 
@@ -18,18 +18,24 @@ continue=true
 
 ```
 # 最大同时下载任务数, 运行时可修改, 默认:5
-#max-concurrent-downloads=5
+max-concurrent-downloads=5
+
 # 同一服务器连接数, 添加时可指定, 默认:1
 max-connection-per-server=5
+
 # 最小文件分片大小, 添加时可指定, 取值范围1M -1024M, 默认:20M
 # 假定size=10M, 文件为20MiB 则使用两个来源下载; 文件为15MiB 则使用一个来源下载
 min-split-size=10M
+
 # 单个任务最大线程数, 添加时可指定, 默认:5
-#split=5
+split=5
+
 # 整体下载速度限制, 运行时可修改, 默认:0
-#max-overall-download-limit=0
+max-overall-download-limit=0
+
 # 单个任务下载速度限制, 默认:0
-#max-download-limit=0
+max-download-limit=0
+
 # 整体上传速度限制, 运行时可修改, 默认:0
 #max-overall-upload-limit=0
 # 单个任务上传速度限制, 默认:0
@@ -122,5 +128,5 @@ bt-save-metadata=true
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NTY4MzkzN119
+eyJoaXN0b3J5IjpbLTYzMzUwMzM4N119
 -->
