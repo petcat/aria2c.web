@@ -1,4 +1,5 @@
-# 教程
+#  Aria2c 参数设置
+强烈建议使用面板设置，修改参数最好先做好备份。
 
 ### 文件保存相关 
 
@@ -124,5 +125,5 @@ bt-save-metadata=true
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDI0MDEyNDldfQ==
+eyJoaXN0b3J5IjpbNDUwNDc3NDkwXX0=
 -->
