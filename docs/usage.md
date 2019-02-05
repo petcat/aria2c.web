@@ -1,6 +1,6 @@
 # 教程
 
-## 文件保存相关 
+### 文件保存相关 
 
 ```
 # 文件的保存路径(可使用绝对路径或相对路径), 默认: 当前启动位置
@@ -16,7 +16,7 @@ dir=~/downloads
 continue=true
 ```
 
-## 下载连接相关 
+### 下载连接相关 
 
 ```
 # 最大同时下载任务数, 运行时可修改, 默认:5
@@ -45,7 +45,8 @@ min-split-size=10M
 # 设置重试等待的秒数, 默认:0
 #retry-wait=0
 ```
-## 进度保存相关 ##
+
+### 进度保存相关 
 ```
 # 从会话文件中读取下载任务
 input-file=/etc/aria2/aria2.session
@@ -55,7 +56,7 @@ save-session=/etc/aria2/aria2.session
 #save-session-interval=60
 ```
 
-## RPC相关设置 ##
+### RPC相关设置 
 
 ```
 # 启用RPC, 默认:false
@@ -84,7 +85,7 @@ rpc-listen-all=true
 #rpc-private-key=/path/to/certificate.key
 ```
 
-## BT/PT下载相关 
+### BT/PT下载相关 
 
 ```
 
@@ -123,5 +124,5 @@ bt-save-metadata=true
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5ODgwNDY2MF19
+eyJoaXN0b3J5IjpbLTIxMDI0MDEyNDldfQ==
 -->
