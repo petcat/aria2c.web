@@ -58,8 +58,10 @@ max-tries=5
 ```
 # 从会话文件中读取下载任务
 input-file=/etc/aria2/aria2.session
+
 # 在Aria2退出时保存`错误/未完成`的下载任务到会话文件
 save-session=/etc/aria2/aria2.session
+
 # 定时保存会话, 0为退出时才保存, 需1.16.1以上版本, 默认:0
 #save-session-interval=60
 ```
@@ -69,20 +71,28 @@ save-session=/etc/aria2/aria2.session
 ```
 # 启用RPC, 默认:false
 enable-rpc=true
+
 # 允许所有来源, 默认:false
 rpc-allow-origin-all=true
+
 # 允许非外部访问, 默认:false
 rpc-listen-all=true
+
 # 事件轮询方式, 取值:[epoll, kqueue, port, poll, select], 不同系统默认值不同
-#event-poll=select
+event-poll=select
+
 # RPC监听端口, 端口被占用时可以修改, 默认:6800
 #rpc-listen-port=6800
+
 # 设置的RPC授权令牌, v1.18.4新增功能, 取代 --rpc-user 和 --rpc-passwd 选项
-#rpc-secret=<TOKEN>
+rpc-secret=<TOKEN>
+
 # 设置的RPC访问用户名, 此选项新版已废弃, 建议改用 --rpc-secret 选项
 #rpc-user=<USER>
+
 # 设置的RPC访问密码, 此选项新版已废弃, 建议改用 --rpc-secret 选项
 #rpc-passwd=<PASSWD>
+
 # 是否启用 RPC 服务的 SSL/TLS 加密,
 # 启用加密后 RPC 服务需要使用 https 或者 wss 协议连接
 #rpc-secure=true
@@ -132,5 +142,5 @@ bt-save-metadata=true
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzEyNzAzLDcxMjY1OTY2M119
+eyJoaXN0b3J5IjpbMTk4Mzk3Mjc3NSw3MTI2NTk2NjNdfQ==
 -->
