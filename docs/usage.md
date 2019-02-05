@@ -6,13 +6,10 @@
 ```
 # 文件的保存路径(可使用绝对路径或相对路径), 默认: 当前启动位置
 dir=~/downloads
+
 # 启用磁盘缓存, 0为禁用缓存, 需1.16以上版本, 默认:16M
-#disk-cache=32M
-# 文件预分配方式, 能有效降低磁盘碎片, 默认:prealloc
-# 预分配所需时间: none < falloc ? trunc < prealloc
-# falloc和trunc则需要文件系统和内核支持
-# NTFS建议使用falloc, EXT3/4建议trunc, MAC 下需要注释此项
-#file-allocation=none
+disk-cache=32M
+
 # 断点续传
 continue=true
 ```
@@ -125,5 +122,5 @@ bt-save-metadata=true
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDUwNDc3NDkwXX0=
+eyJoaXN0b3J5IjpbMTg1NTY4MzkzN119
 -->
