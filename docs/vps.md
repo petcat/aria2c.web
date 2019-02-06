@@ -6,9 +6,11 @@
 | 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 3TB硬盘 | 4TB硬盘 |
 |---------|--------|---------|--------|--------|
 | 512内存 | 1G内存 | 2G内存 | 3G内存 | 4G内存  |
+| 1TB流量  |    |   |   |
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNTEzMTY4OCwtNzEyMDgyMzFdfQ==
+eyJoaXN0b3J5IjpbMTQ0MjIxOTAyNSwxODI1MTMxNjg4LC03MT
+IwODIzMV19
 -->
