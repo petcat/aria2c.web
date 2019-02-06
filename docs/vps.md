@@ -5,9 +5,10 @@
 
 | 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 3TB硬盘 | 4TB硬盘 |
 |---------|--------|---------|--------|--------|
-| 512内存 | 1G内存 | 2G内存 | 3G内存 | 4Gmwdh
+| 512内存 | 1G内存 | 2G内存 | 3G内存 | 4G内存  |
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM4MjYzODAxMSwtNzEyMDgyMzFdfQ==
+eyJoaXN0b3J5IjpbMTgyNTEzMTY4OCwtNzEyMDgyMzFdfQ==
 -->
