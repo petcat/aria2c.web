@@ -5,7 +5,7 @@
 
 ## OpenVZ 大硬盘方案
 
-OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包括磁盘也是共享的，所以，分配给你的磁盘空间并不完全分配到你账户，当然你也不必担心短斤缺两，只是有可能，你需要发明明还有空间
+OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包括磁盘也是共享的，所以，分配给你的磁盘空间并不完全分配到你账户，当然你也不必担心短斤缺两，正规商家即使硬盘超售（赌你不会用完），也会给你解决q只是有可能，你需要发服务单要求商家解决。
 
 | 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 3TB硬盘 | 4TB硬盘 |
 |---------|--------|---------|--------|--------|
@@ -19,6 +19,6 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTUzNjQwNzcsMTA1NDE4NTY2OSwtMT
-UwMjU0NzA4OCwxODI1MTMxNjg4LC03MTIwODIzMV19
+eyJoaXN0b3J5IjpbNzgwMDAxNzU3LDEwNTQxODU2NjksLTE1MD
+I1NDcwODgsMTgyNTEzMTY4OCwtNzEyMDgyMzFdfQ==
 -->
