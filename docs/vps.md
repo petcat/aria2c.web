@@ -18,6 +18,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 
 https://www.hostens.com/vps-hosting/#hosting__plan__group-tab-storage?affid=760
 https://www.hostens.com/?affid=760
+https://billing.hostens.com/?cmd=cart&action=add&id=249&cycle=a?affid=760
 
 ### Serverhub
 
@@ -32,7 +33,7 @@ https://www.hostens.com/?affid=760
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNTczMTg5NSwxNDk0NjMyNzQsMTIzMz
+eyJoaXN0b3J5IjpbMTk5MDIzMDkxMSwxNDk0NjMyNzQsMTIzMz
 I1MDA3NCwxMDU0MTg1NjY5LC0xNTAyNTQ3MDg4LDE4MjUxMzE2
 ODgsLTcxMjA4MjMxXX0=
 -->
