@@ -17,6 +17,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 | [$2.49/月](https://billing.hostens.com/?affid=760&cmd=cart&action=add&id=246&cycle=a) | $3.33/月 | $4.99/月  |
 
 https://www.hostens.com/vps-hosting/#hosting__plan__group-tab-storage?affid=760
+https://www.hostens.com/vps-hosting/?affid=760#hosting__plan__group-tab-storage
 https://www.hostens.com/?affid=760
 
 https://billing.hostens.com/?cmd=cart&action=add&id=246&cycle=a?affid=760
@@ -34,7 +35,7 @@ https://billing.hostens.com/?cmd=cart&action=add&id=246&cycle=a?affid=760
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMDI0MjA5MCwxNDk0NjMyNzQsMTIzMz
-I1MDA3NCwxMDU0MTg1NjY5LC0xNTAyNTQ3MDg4LDE4MjUxMzE2
-ODgsLTcxMjA4MjMxXX0=
+eyJoaXN0b3J5IjpbLTE4MzQ3MjQxNjksMTQ5NDYzMjc0LDEyMz
+MyNTAwNzQsMTA1NDE4NTY2OSwtMTUwMjU0NzA4OCwxODI1MTMx
+Njg4LC03MTIwODIzMV19
 -->
