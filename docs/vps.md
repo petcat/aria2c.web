@@ -7,6 +7,8 @@
 
 OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包括磁盘也是共享的，所以，分配给你的磁盘空间并不完全分配到你账户，当然你也不必担心短斤缺两，正规商家即使硬盘超售（赌你不会真正用完空间，比如1TB硬盘卖给12人次的100G，赌大家最多只用到8成），也会给你解决。只是有可能需要你发服务单要求商家解决。
 
+### Hostens
+
 | 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 3TB硬盘 | 4TB硬盘 |
 |---------|--------|---------|--------|--------|
 | 512内存 | 1G内存 | 2G内存 | 3G内存 | 4G内存  |
@@ -19,6 +21,6 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3MTc2MzE1NywxMDU0MTg1NjY5LC0xNT
+eyJoaXN0b3J5IjpbMTIzMzI1MDA3NCwxMDU0MTg1NjY5LC0xNT
 AyNTQ3MDg4LDE4MjUxMzE2ODgsLTcxMjA4MjMxXX0=
 -->
