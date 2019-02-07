@@ -11,10 +11,10 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 老牌服务商之一，提供超便宜的大容量硬盘方案，缺点，默认只给100M，不是G口
 
 | 256G硬盘 | 512G硬盘 | 1T硬盘 |
-|---------|---------|-------|
-| 256M内存 | 512M内存 | 1G内存  |
-|  |  |   |
-|  |  |   |
+|----------|---------|-------|
+| 256M内存 | 512M内存 | 1G内存 |
+| 2TB流量 | 4TB流量 | 8TB流量 |
+| $ |  |   |
 
 
 ### Serverhub
@@ -30,7 +30,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNjI3MDMxNSwxMjMzMjUwMDc0LDEwNT
-QxODU2NjksLTE1MDI1NDcwODgsMTgyNTEzMTY4OCwtNzEyMDgy
-MzFdfQ==
+eyJoaXN0b3J5IjpbLTg4MTU1Mzk0LDEyMzMyNTAwNzQsMTA1ND
+E4NTY2OSwtMTUwMjU0NzA4OCwxODI1MTMxNjg4LC03MTIwODIz
+MV19
 -->
