@@ -10,7 +10,14 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 ### Hostens
 老牌服务商之一，提供超便宜的大容量硬盘方案，缺点，默认只给100M，不是G口
 
-### 
+| 256G | 512G  | 1T  |
+|--|--|---|
+|  |  |   |
+|  |  |   |
+|  |  |   |
+
+
+### Serverhub
 
 | 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 3TB硬盘 | 4TB硬盘 |
 |---------|--------|---------|--------|--------|
@@ -24,7 +31,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYwNDA2MDAwLDEyMzMyNTAwNzQsMTA1ND
-E4NTY2OSwtMTUwMjU0NzA4OCwxODI1MTMxNjg4LC03MTIwODIz
-MV19
+eyJoaXN0b3J5IjpbMTMzOTQxOTYyNSwxMjMzMjUwMDc0LDEwNT
+QxODU2NjksLTE1MDI1NDcwODgsMTgyNTEzMTY4OCwtNzEyMDgy
+MzFdfQ==
 -->
