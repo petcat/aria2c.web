@@ -14,7 +14,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 |----------|---------|-------|
 | 256M内存 | 512M内存 | 1G内存 |
 | 2TB流量 | 4TB流量 | 8TB流量 |
-| $2.49/月 | $3.33/月 | $4.99/月  |
+| [$2.49/月](https://billing.hostens.com/?cmd=cart&action=add&id=246&cycle=a | $3.33/月 | $4.99/月  |
 
 
 ### Serverhub
@@ -30,7 +30,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUwNzY0NDQyLDE0OTQ2MzI3NCwxMjMzMj
-UwMDc0LDEwNTQxODU2NjksLTE1MDI1NDcwODgsMTgyNTEzMTY4
-OCwtNzEyMDgyMzFdfQ==
+eyJoaXN0b3J5IjpbLTEzNjM1OTY2MDQsMTQ5NDYzMjc0LDEyMz
+MyNTAwNzQsMTA1NDE4NTY2OSwtMTUwMjU0NzA4OCwxODI1MTMx
+Njg4LC03MTIwODIzMV19
 -->
