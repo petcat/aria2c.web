@@ -3,6 +3,9 @@
 
 使用和建立个人网盘，首先需要一个大硬盘的VPS或者服务器。CPU、内存性能并没有要求，但是硬盘一定要足够大，满意储存需求。以下为收集整理的大容量硬盘VPS，俗称大盘鸡。
 
+## OpenVZ 大硬盘方案
+OpenVZ优点就是便宜，
+
 | 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 3TB硬盘 | 4TB硬盘 |
 |---------|--------|---------|--------|--------|
 | 512内存 | 1G内存 | 2G内存 | 3G内存 | 4G内存  |
@@ -13,6 +16,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NDE4NTY2OSwtMTUwMjU0NzA4OCwxOD
-I1MTMxNjg4LC03MTIwODIzMV19
+eyJoaXN0b3J5IjpbNzcyNjQxMzEzLDEwNTQxODU2NjksLTE1MD
+I1NDcwODgsMTgyNTEzMTY4OCwtNzEyMDgyMzFdfQ==
 -->
