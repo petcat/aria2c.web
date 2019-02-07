@@ -4,7 +4,8 @@
 使用和建立个人网盘，首先需要一个大硬盘的VPS或者服务器。CPU、内存性能并没有要求，但是硬盘一定要足够大，满意储存需求。以下为收集整理的大容量硬盘VPS，俗称大盘鸡。
 
 ## OpenVZ 大硬盘方案
-OpenVZ优点就是便宜，
+
+OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包括磁盘也是共享的，所以，wv
 
 | 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 3TB硬盘 | 4TB硬盘 |
 |---------|--------|---------|--------|--------|
@@ -13,9 +14,11 @@ OpenVZ优点就是便宜，
 | [$5/月](http://my.serverhub.com/aff.php?aff=171&pid=613) | [$10/月](http://my.serverhub.com/aff.php?aff=171&pid=614) | [$20/月](http://my.serverhub.com/aff.php?aff=171&pid=615) | [$30/月](http://my.serverhub.com/aff.php?aff=171&pid=616) | [$40/月](http://my.serverhub.com/aff.php?aff=171&pid=617) |
 
 
+## KVM 大硬盘方案
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzcyNjQxMzEzLDEwNTQxODU2NjksLTE1MD
+eyJoaXN0b3J5IjpbMzQ0NjQ0Mjg4LDEwNTQxODU2NjksLTE1MD
 I1NDcwODgsMTgyNTEzMTY4OCwtNzEyMDgyMzFdfQ==
 -->
