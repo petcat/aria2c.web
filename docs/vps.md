@@ -18,11 +18,11 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 
 ###
 
-| 500 | 1TB  | 2TB | 4TB |
-|--|--|---|---|
+| 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 4TB硬盘 |
+|---------|---------|--------|--------|
 | 512M内存 | 1G内存 | 2G内存 | 4G内存  |
 | 5T流量 | 10T流量 | 20T流量 | 40T流量 |
-| $3.5/月  | $7/月  |   |   |
+| $3.5/月  | $7/月  | $14/月  | $28/月  |
 
 
 
@@ -39,7 +39,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 https://hosthatch.com/a?id=1177
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE2NDYyMDc4LDkxMTc5OTU1NywxMjc0ND
+eyJoaXN0b3J5IjpbNjk4MDQ0NzQ4LDkxMTc5OTU1NywxMjc0ND
 k4MTM4LDE0OTQ2MzI3NCwxMjMzMjUwMDc0LDEwNTQxODU2Njks
 LTE1MDI1NDcwODgsMTgyNTEzMTY4OCwtNzEyMDgyMzFdfQ==
 -->
