@@ -16,7 +16,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 | 2TB流量 | 4TB流量 | 8TB流量 |
 | [$2.49/月](https://www.hostens.com/vps-hosting/?affid=760#hosting__plan__group-tab-storage) | [$3.33/月](https://www.hostens.com/vps-hosting/?affid=760#hosting__plan__group-tab-storage) | [$4.99/月](https://www.hostens.com/vps-hosting/?affid=760#hosting__plan__group-tab-storage) |
 
-###
+### Virmach
 
 | 500G硬盘 | 1TB硬盘 | 2TB硬盘 | 4TB硬盘 |
 |---------|---------|--------|--------|
@@ -24,6 +24,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 | 5T流量 | 10T流量 | 20T流量 | 40T流量 |
 | $3.5/月  | $7/月  | $14/月  | $28/月  |
 
+备注：所有网络都是10G口，宽带iyj
 
 
 ### Serverhub
@@ -39,7 +40,8 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 https://hosthatch.com/a?id=1177
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4MDQ0NzQ4LDkxMTc5OTU1NywxMjc0ND
-k4MTM4LDE0OTQ2MzI3NCwxMjMzMjUwMDc0LDEwNTQxODU2Njks
-LTE1MDI1NDcwODgsMTgyNTEzMTY4OCwtNzEyMDgyMzFdfQ==
+eyJoaXN0b3J5IjpbMTQ3NzkwNTA2Myw2OTgwNDQ3NDgsOTExNz
+k5NTU3LDEyNzQ0OTgxMzgsMTQ5NDYzMjc0LDEyMzMyNTAwNzQs
+MTA1NDE4NTY2OSwtMTUwMjU0NzA4OCwxODI1MTMxNjg4LC03MT
+IwODIzMV19
 -->
