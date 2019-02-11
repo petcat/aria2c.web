@@ -35,13 +35,13 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 | 1TB流量 | 2TB流量 | 3TB流量  | 4TB流量  | 5TB流量 |
 | [$5/月](http://my.serverhub.com/aff.php?aff=171&pid=613) | [$10/月](http://my.serverhub.com/aff.php?aff=171&pid=614) | [$20/月](http://my.serverhub.com/aff.php?aff=171&pid=615) | [$30/月](http://my.serverhub.com/aff.php?aff=171&pid=616) | [$40/月](http://my.serverhub.com/aff.php?aff=171&pid=617) |
 
-
+---
 ## KVM 大硬盘方案
 https://hosthatch.com/a?id=1177
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYxOTA1ODAsNjk4MDQ0NzQ4LDkxMT
-c5OTU1NywxMjc0NDk4MTM4LDE0OTQ2MzI3NCwxMjMzMjUwMDc0
-LDEwNTQxODU2NjksLTE1MDI1NDcwODgsMTgyNTEzMTY4OCwtNz
-EyMDgyMzFdfQ==
+eyJoaXN0b3J5IjpbMTU2MzI4NTYzMSw2OTgwNDQ3NDgsOTExNz
+k5NTU3LDEyNzQ0OTgxMzgsMTQ5NDYzMjc0LDEyMzMyNTAwNzQs
+MTA1NDE4NTY2OSwtMTUwMjU0NzA4OCwxODI1MTMxNjg4LC03MT
+IwODIzMV19
 -->
