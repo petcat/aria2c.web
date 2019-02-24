@@ -6,6 +6,7 @@ KVM， 1。25起
 https://www.vpsrb.com/659.html    
 https://blog.liyuans.com/archives/storage-vps-collection.html      
 
+```
 # 3G+200G+3TB+2IPv4 + 法德 20刀/年   
 https://secure.galaxyhostplus.com/aff.php?aff=89&pid=254    
 # KVM 1G    
@@ -24,3 +25,4 @@ https://clientarea.ramnode.com/aff.php?aff=2764&pid=65
 https://clientarea.ramnode.com/aff.php?aff=2764&pid=233   
 # KVM 256M + 200G + 1TB 12.5刀/季，45刀/年（80%优惠码：LEBSTORAGE）   
 https://my.hostus.us/aff.php?aff=408&pid=321   
+```
