@@ -5,7 +5,7 @@ site_author: 下载狂魔
 repo_url: #
 copyright: Copyright &copy; 2019 <a href="https://aria2c.xyz">Aria2c</a> | Hosted by <a href="https://my.hostus.us/aff.php?aff=408" title="HostUS">HostUS Hosting</a>.
 #
-theme:  windmill  #readthedocs
+theme:  #readthedocs
 nav:
     - 首页: index.md
       -- 配置: option.md
