@@ -2,7 +2,8 @@
 
 
 https://my.frantech.ca/cart.php?gid=42    
-KVM， 1。25起     
+KVM， 1.25起  
+https://hosthatch.com/a?id=1336
 https://www.vpsrb.com/659.html    
 https://blog.liyuans.com/archives/storage-vps-collection.html      
 
