@@ -37,7 +37,7 @@ OpenVZ 方案优点就是便宜，非常的便宜，但是OpenVZ虚拟化是包�
 
 ---
 ## KVM 大硬盘方案
-https://hosthatch.com/a?id=1177
+https://hosthatch.com/a?id=1336
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU2MzI4NTYzMSw2OTgwNDQ3NDgsOTExNz
