@@ -151,7 +151,7 @@ bt-seed-unverified=true
 
 # 保存磁力链接元数据为种子文件(.torrent文件), 默认:false
 bt-save-metadata=true
+
+# BT服务器地址
+bt-tracker=udp://9.rarbg.to:2710/announce,udp://9.rarbg.me:2710/announce,http://tr.cili001.com:8070/announce,http://tracker.trackerfix.com:80/announce,udp://open.demonii.com:1337,udp://tracker.opentrackr.org:1337/announce,udp://p4p.arenabg.com:1337,wss://tracker.openwebtorrent.com,wss://tracker.btorrent.xyz,wss://tracker.fastcast.nz
 ```
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMyNDIwMzcwXX0=
--->
